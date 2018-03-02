@@ -653,11 +653,11 @@
         <artifact groupId="org.igniterealtime.smack" artifactId="smack-resolver-javax" version="4.2.1"/>
         <artifact groupId="org.igniterealtime.smack" artifactId="smack-sasl-javax" version="4.2.1"/>
         <artifact groupId="org.igniterealtime.smack" artifactId="smack-tcp" version="4.2.1"/>
-        <artifact groupId="org.infinispan" artifactId="infinispan-client-hotrod" version="9.1.6.Final"/>
-        <artifact groupId="org.infinispan" artifactId="infinispan-commons" version="9.1.6.Final"/>
-        <artifact groupId="org.infinispan" artifactId="infinispan-core" version="9.1.6.Final"/>
-        <artifact groupId="org.infinispan" artifactId="infinispan-jcache" version="9.1.6.Final"/>
-        <artifact groupId="org.infinispan" artifactId="infinispan-jcache-commons" version="9.1.6.Final"/>
+        <artifact groupId="org.infinispan" artifactId="infinispan-client-hotrod" version="9.2.0.Final"/>
+        <artifact groupId="org.infinispan" artifactId="infinispan-commons" version="9.2.0.Final"/>
+        <artifact groupId="org.infinispan" artifactId="infinispan-core" version="9.2.0.Final"/>
+        <artifact groupId="org.infinispan" artifactId="infinispan-jcache" version="9.2.0.Final"/>
+        <artifact groupId="org.infinispan" artifactId="infinispan-jcache-commons" version="9.2.0.Final"/>
         <artifact groupId="org.infinispan" artifactId="infinispan-query-dsl" version="9.1.1.Final"/>
         <artifact groupId="org.influxdb" artifactId="influxdb-java" version="2.7"/>
         <artifact groupId="org.iq80.leveldb" artifactId="leveldb" version="0.9"/>
@@ -685,9 +685,9 @@
         <artifact groupId="org.jboss.metadata" artifactId="jboss-metadata-web" version="11.0.0.Final"/>
         <artifact groupId="org.jboss.modules" artifactId="jboss-modules" version="1.7.0.Final"/>
         <artifact groupId="org.jboss.msc" artifactId="jboss-msc" version="1.3.2.Final"/>
-        <artifact groupId="org.jboss.narayana.compensations" artifactId="compensations" version="5.5.31.Final"/>
-        <artifact groupId="org.jboss.narayana.jts" artifactId="narayana-jts-idlj" version="5.5.31.Final"/>
-        <artifact groupId="org.jboss.narayana.jts" artifactId="narayana-jts-integration" version="5.5.31.Final"/>
+        <artifact groupId="org.jboss.narayana.compensations" artifactId="compensations" version="5.8.0.Final"/>
+        <artifact groupId="org.jboss.narayana.jts" artifactId="narayana-jts-idlj" version="5.8.0.Final"/>
+        <artifact groupId="org.jboss.narayana.jts" artifactId="narayana-jts-integration" version="5.8.0.Final"/>
         <artifact groupId="org.jboss.openjdk-orb" artifactId="openjdk-orb" version="8.1.0.Final"/>
         <artifact groupId="org.jboss.remoting" artifactId="jboss-remoting" version="5.0.5.Final"/>
         <artifact groupId="org.jboss.security" artifactId="jboss-negotiation-common" version="3.0.4.Final"/>
@@ -745,7 +745,7 @@
         <artifact groupId="org.projectodd.vdx" artifactId="vdx-wildfly" version="1.1.6"/>
         <artifact groupId="org.quartz-scheduler" artifactId="quartz" version="2.3.0"/>
         <artifact groupId="org.quickfixj" artifactId="quickfixj-all" version="1.6.3"/>
-        <artifact groupId="org.reactivestreams" artifactId="reactive-streams" version="1.0.1"/>
+        <artifact groupId="org.reactivestreams" artifactId="reactive-streams" version="1.0.2"/>
         <artifact groupId="org.reflections" artifactId="reflections" version="0.9.10"/>
         <artifact groupId="org.scala-lang" artifactId="scala-library" version="2.11.7"/>
         <artifact groupId="org.scala-lang.modules" artifactId="scala-parser-combinators_2.11" version="1.0.4"/>
@@ -783,20 +783,20 @@
         <artifact groupId="org.twitter4j" artifactId="twitter4j-stream" version="4.0.6"/>
         <artifact groupId="org.uberfire" artifactId="uberfire-maven-support" version="1.3.0.Final"/>
         <artifact groupId="org.w3c.css" artifactId="sac" version="1.3"/>
-        <artifact groupId="org.wildfly" artifactId="wildfly-clustering-common" version="12.0.0.Final"/>
-        <artifact groupId="org.wildfly" artifactId="wildfly-clustering-infinispan-spi" version="12.0.0.Final"/>
-        <artifact groupId="org.wildfly" artifactId="wildfly-clustering-marshalling-api" version="12.0.0.Final"/>
-        <artifact groupId="org.wildfly" artifactId="wildfly-clustering-marshalling-spi" version="12.0.0.Final"/>
-        <artifact groupId="org.wildfly" artifactId="wildfly-clustering-service" version="12.0.0.Final"/>
-        <artifact groupId="org.wildfly" artifactId="wildfly-ee" version="12.0.0.Final"/>
-        <artifact groupId="org.wildfly" artifactId="wildfly-feature-pack" version="12.0.0.Final" extension="zip"/>
-        <artifact groupId="org.wildfly" artifactId="wildfly-iiop-openjdk" version="12.0.0.Final"/>
-        <artifact groupId="org.wildfly" artifactId="wildfly-naming" version="12.0.0.Final"/>
+        <artifact groupId="org.wildfly" artifactId="wildfly-clustering-common" version="13.0.0.Alpha1-SNAPSHOT"/>
+        <artifact groupId="org.wildfly" artifactId="wildfly-clustering-infinispan-spi" version="13.0.0.Alpha1-SNAPSHOT"/>
+        <artifact groupId="org.wildfly" artifactId="wildfly-clustering-marshalling-api" version="13.0.0.Alpha1-SNAPSHOT"/>
+        <artifact groupId="org.wildfly" artifactId="wildfly-clustering-marshalling-spi" version="13.0.0.Alpha1-SNAPSHOT"/>
+        <artifact groupId="org.wildfly" artifactId="wildfly-clustering-service" version="13.0.0.Alpha1-SNAPSHOT"/>
+        <artifact groupId="org.wildfly" artifactId="wildfly-ee" version="13.0.0.Alpha1-SNAPSHOT"/>
+        <artifact groupId="org.wildfly" artifactId="wildfly-feature-pack" version="13.0.0.Alpha1-SNAPSHOT" extension="zip"/>
+        <artifact groupId="org.wildfly" artifactId="wildfly-iiop-openjdk" version="13.0.0.Alpha1-SNAPSHOT"/>
+        <artifact groupId="org.wildfly" artifactId="wildfly-naming" version="13.0.0.Alpha1-SNAPSHOT"/>
         <artifact groupId="org.wildfly" artifactId="wildfly-naming-client" version="1.0.7.Final"/>
-        <artifact groupId="org.wildfly" artifactId="wildfly-security" version="12.0.0.Final"/>
-        <artifact groupId="org.wildfly" artifactId="wildfly-transactions" version="12.0.0.Final"/>
-        <artifact groupId="org.wildfly" artifactId="wildfly-undertow" version="12.0.0.Final"/>
-        <artifact groupId="org.wildfly" artifactId="wildfly-web-common" version="12.0.0.Final"/>
+        <artifact groupId="org.wildfly" artifactId="wildfly-security" version="13.0.0.Alpha1-SNAPSHOT"/>
+        <artifact groupId="org.wildfly" artifactId="wildfly-transactions" version="13.0.0.Alpha1-SNAPSHOT"/>
+        <artifact groupId="org.wildfly" artifactId="wildfly-undertow" version="13.0.0.Alpha1-SNAPSHOT"/>
+        <artifact groupId="org.wildfly" artifactId="wildfly-web-common" version="13.0.0.Alpha1-SNAPSHOT"/>
         <artifact groupId="org.wildfly.camel" artifactId="wildfly-camel-config" version="6.0.0-SNAPSHOT"/>
         <artifact groupId="org.wildfly.camel" artifactId="wildfly-camel-cxf-undertow" version="6.0.0-SNAPSHOT"/>
         <artifact groupId="org.wildfly.camel" artifactId="wildfly-camel-subsystem-cdi" version="6.0.0-SNAPSHOT"/>
@@ -822,8 +822,8 @@
         <artifact groupId="org.wildfly.core" artifactId="wildfly-request-controller" version="4.0.0.Final"/>
         <artifact groupId="org.wildfly.core" artifactId="wildfly-server" version="4.0.0.Final"/>
         <artifact groupId="org.wildfly.core" artifactId="wildfly-version" version="4.0.0.Final"/>
-        <artifact groupId="org.wildfly.extras.patch" artifactId="fuse-patch-config" version="4.0.0"/>
-        <artifact groupId="org.wildfly.extras.patch" artifactId="fuse-patch-feature-pack" version="4.0.0" extension="zip"/>
+        <artifact groupId="org.wildfly.extras.patch" artifactId="fuse-patch-config" version="5.0.0-SNAPSHOT"/>
+        <artifact groupId="org.wildfly.extras.patch" artifactId="fuse-patch-feature-pack" version="5.0.0-SNAPSHOT" extension="zip"/>
         <artifact groupId="org.wildfly.openssl" artifactId="wildfly-openssl-java" version="1.0.2.Final"/>
         <artifact groupId="org.wildfly.security" artifactId="wildfly-elytron" version="1.2.2.Final"/>
         <artifact groupId="org.wildfly.security.elytron-web" artifactId="undertow-server" version="1.1.0.Final"/>
